@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: demo-config
+  namespace: default
+data:
+  welcome-message: "Hello from Argo CD with no Docker app!"
