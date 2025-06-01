@@ -1,0 +1,1 @@
+# argocd-minimal-k8s
